@@ -21,8 +21,7 @@ It demonstrates how text data can be preprocessed and used to build machine lear
 ## 📁 Project Structure
 
 * `dataset/` → Restaurant_Reviews.tsv
-* `nlp_model.py` → Main model implementation
-* `notebooks/` → Jupyter notebooks (optional)
+* `natural language processing.py` → Main model implementation
 
 ---
 
@@ -48,10 +47,10 @@ Analyze customer reviews and predict whether the sentiment is:
 ## ▶️ How to Run
 
 ```bash id="9a2l3w"
-git clone https://github.com/karthik-1972/NLP-Restaurant-Reviews.git
-cd NLP-Restaurant-Reviews
+git clone https://github.com/karthik-1972/Restaurant-reviews-sentiment-analysis-NLP.git
+cd Restaurant-reviews-sentiment-analysis-NLP
 pip install -r requirements.txt
-python nlp_model.py
+python natural language processing.py
 ```
 
 ---
